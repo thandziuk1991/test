@@ -49,4 +49,4 @@ Warning messages:
 7: package 'stringr' was built under R version 3.2.5 
 > proc.time()
    user  system elapsed 
-   2.26    0.12    2.93 
+   2.35    0.15    3.32 
