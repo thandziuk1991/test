@@ -1,0 +1,52 @@
+Warning message:
+package 'chron' was built under R version 3.2.2 
+Loading required package: DBI
+
+Attaching package: 'combinat'
+
+The following object is masked from 'package:utils':
+
+    combn
+
+
+Attaching package: 'zoo'
+
+The following objects are masked from 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attaching package: 'jrvFinance'
+
+The following object is masked from 'package:RQuantLib':
+
+    yearFraction
+
+[1] "Please call selectEnvironment() prior to calling any functions"
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:plyr':
+
+    here
+
+The following object is masked from 'package:jrvFinance':
+
+    duration
+
+The following objects are masked from 'package:chron':
+
+    days, hours, minutes, seconds, years
+
+[1] "Setting url and token to SIMULATION"
+Warning messages:
+1: package 'RQuantLib' was built under R version 3.2.5 
+2: package 'combinat' was built under R version 3.2.3 
+3: package 'jrvFinance' was built under R version 3.2.5 
+4: package 'jsonlite' was built under R version 3.2.5 
+5: package 'plyr' was built under R version 3.2.5 
+6: package 'lubridate' was built under R version 3.2.3 
+7: package 'stringr' was built under R version 3.2.5 
+> proc.time()
+   user  system elapsed 
+   2.26    0.12    2.93 

@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-3.2.1\bin\i386\R.exe" CMD BATCH --vanilla --slave "Y:/Workspace/R projects/3rd Pivot Scanner/Scripts/3rd_pivot_scanner.R"
